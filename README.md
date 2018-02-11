@@ -23,4 +23,6 @@ Users are then required to upvote or downvote the pitches and also comment on th
 
 ## Known Bugs
 
+There no known bugs
+
 

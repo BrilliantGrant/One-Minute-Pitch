@@ -59,6 +59,8 @@ There no known bugs
 * Flask
 * Bootstrap
 * Postgres db
+* CSS
+* HTML
 
 ### License
 s

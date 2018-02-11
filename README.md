@@ -11,7 +11,7 @@ The pitches are organized by categories. Examples of categories: <br>
 - pickup lines
 - interview pitches
 - product pitches
-- promotion pitches
+- promotion pitchess
 
 ### categories include:
 
@@ -21,6 +21,8 @@ The pitches are organized by categories. Examples of categories: <br>
 * Product Pitch
 
 Users are then required to upvote or downvote the pitches and also comment on them.
+
+## User Stories
 
 ## Setup/Installation Requirements
 

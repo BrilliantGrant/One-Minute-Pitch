@@ -20,13 +20,14 @@ The pitches are organized by categories. Examples of categories: <br>
 * Interview Pitch
 * Product Pitch
 
-Users are then required to upvote or downvote the pitches and also comment on them.
-
 ## User Stories
 
 As a user I would like:
 * to view the different categories
 * to see the pitches other people have posted
+* to submit a pitch in any category
+* to comment on the different pitches and leave feedback
+* to vote on the pitch and give it a downvote or upvote
 
 ## Setup/Installation Requirements
 

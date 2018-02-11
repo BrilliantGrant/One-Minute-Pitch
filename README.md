@@ -9,3 +9,4 @@ This application allows users to write a one minute pitch in the four categories
 ### categories include:
 
 * Promotion Pitch
+* Pickup Lines

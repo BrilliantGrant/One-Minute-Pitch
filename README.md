@@ -18,3 +18,4 @@ Users are then required to upvote or downvote the pitches and also comment on th
 ## Setup/Installation Requirements
 
 * Clone the repository
+* install all the requirements in the file > requirements.txt

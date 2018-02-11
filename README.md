@@ -29,6 +29,9 @@ As a user I would like:
 * to comment on the different pitches and leave feedback
 * to vote on the pitch and give it a downvote or upvote
 
+## Specifications
+
+
 ## Setup/Installation Requirements
 
 * Clone the repository https://github.com/BrilliantGrant/One-Minute-Pitch.git

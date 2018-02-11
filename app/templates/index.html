@@ -1,0 +1,28 @@
+{% extends 'base.html' %} 
+{% import 'macro.html' as macro %}
+{% block content %}       
+
+      <p><a href="{{url_for('main.new_pitch')}}">Create a Pitch </a></p>
+
+      {{macro.displayPitchList(pick_up)}}
+
+      {{macro.displayPitchList(product)}}
+
+      {{macro.displayPitchList(promotion)}}
+
+      {{macro.displayPitchList(interview)}}
+
+
+
+    <div class="col-md-4">
+      	<h1>Comments</h1>
+     
+     <div class="well" style="background-color: black; color: white; border-top-right-radius: 30px;border-bottom-left-radius: 30px; border-right: 20px solid #03A9F4">
+   	
+      {{macro.displayCommentList(comment)}}
+
+        
+        </div>
+
+                    </div>
+{% endblock %}

@@ -7,3 +7,5 @@ This is an app that will allow users to submit one minute pitches,upvote on the 
 This application allows users to write a one minute pitch in the four categories provided.
 
 ### categories include:
+
+* Promotion Pitch

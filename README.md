@@ -8,6 +8,10 @@ This application allows users to write a one minute pitch in the four categories
 
 The pitches are organized by categories. Examples of categories: <br> 
 
+- pickup lines
+- interview pitches
+- product pitches
+- promotion pitches
 
 ### categories include:
 

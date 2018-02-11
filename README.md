@@ -29,5 +29,7 @@ There no known bugs
 
 * Python3.6
 * Flask
+* Bootstrap
+
 
 

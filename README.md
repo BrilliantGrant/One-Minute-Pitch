@@ -24,6 +24,10 @@ Users are then required to upvote or downvote the pitches and also comment on th
 
 ## User Stories
 
+As a user I would like:
+* to view the different categories
+* to see the pitches other people have posted
+
 ## Setup/Installation Requirements
 
 * Clone the repository https://github.com/BrilliantGrant/One-Minute-Pitch.git

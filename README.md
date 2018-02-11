@@ -16,3 +16,5 @@ This application allows users to write a one minute pitch in the four categories
 Users are then required to upvote or downvote the pitches and also comment on them.
 
 ## Setup/Installation Requirements
+
+* Clone the repository

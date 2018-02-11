@@ -21,3 +21,6 @@ Users are then required to upvote or downvote the pitches and also comment on th
 * install all the requirements in the file > requirements.txt
 * open terminal and go to the project folder, run $ ./start.sh
 
+## Known Bugs
+
+

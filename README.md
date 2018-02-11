@@ -25,4 +25,7 @@ Users are then required to upvote or downvote the pitches and also comment on th
 
 There no known bugs
 
+## Technologies Used
+
+
 
